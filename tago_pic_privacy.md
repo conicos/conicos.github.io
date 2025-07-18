@@ -1,4 +1,4 @@
-# Gomoku
+# TagoPic
 
 ## プライバリーポリシー
 
