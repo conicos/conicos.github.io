@@ -1,13 +1,13 @@
 # TagoPic
 
-## プライバリーポリシー
+## プライバシーポリシー
 
 ### **個人情報の取得**
 
 本アプリでは、広告配信のため Google AdMob を使用しております。<br>
 Google AdMob は広告配信のために広告IDを取得していますが、個人を特定するためなどには使用しておりません。<br>
 
-Google AdMob のプライバリーポリシーに関しては以下をご覧ください。<br>
+Google AdMob のプライバシーポリシーに関しては以下をご覧ください。<br>
 [Google AdMob](https://policies.google.com/technologies/ads?hl=ja)<br>
 
 また、本アプリについてのお問い合わせをいただく際に、メールアドレス等の個人情報を取得することがございます。
